@@ -1,3 +1,7 @@
+archive.zip
+.DS_Store
+src/device.json
+
 # Logs
 logs
 *.log

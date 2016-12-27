@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "SetBrightness",
+      "slots": [
+        {
+          "name": "Brightness",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Room",
+          "type": "LIST_OF_ROOMS"
+        }
+      ]
+    },
+    {
+      "intent": "SetMode",
+      "slots": [
+        {
+          "name": "Mode",
+          "type": "LIST_OF_MODES"
+        },
+        {
+          "name": "Room",
+          "type": "LIST_OF_ROOMS"
+        }
+      ]
+    },
+    {
+      "intent": "SetColor",
+      "slots": [
+        {
+          "name": "Color",
+          "type": "LIST_OF_COLORS"
+        },
+        {
+          "name": "Room",
+          "type": "LIST_OF_ROOMS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

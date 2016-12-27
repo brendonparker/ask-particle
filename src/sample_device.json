@@ -1,0 +1,9 @@
+{
+    "devices": {
+        "living room": "device id A",
+        "couch": "device id A",
+        "kitchen": "device id B"
+    },
+    "accessToken": "YOUR ACCESS TOKEN",
+    "appId": "amzn1.ask.skill.YOUR_APP_GUID"
+}

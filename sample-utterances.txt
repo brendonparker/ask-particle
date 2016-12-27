@@ -1,0 +1,10 @@
+SetMode set mode to {Mode}
+SetMode set mode to {Mode} in {Room}
+
+SetBrightness set brightness to {Brightness}
+SetBrightness set brightness to {Brightness} in {Room}
+SetBrightness set brightness to {Brightness} percent
+SetBrightness set brightness to {Brightness} percent in {Room}
+
+SetColor set color to {Color}
+SetColor set color to {Color} in {Room}
